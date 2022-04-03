@@ -1,5 +1,3 @@
-package main
+package comment
 
-func main() {
-
-}
+type Employee interface{}
