@@ -24,5 +24,4 @@ func main() {
 	default:
 		println("something else")
 	}
-
 }
