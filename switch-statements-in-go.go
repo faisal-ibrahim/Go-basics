@@ -3,7 +3,7 @@ package main
 import "runtime"
 
 func main() {
-	println("Switch Statements in Go")
+	println("Switch Statementsss in Go")
 	var customerHeight int = 140
 	customerAge := 18
 
