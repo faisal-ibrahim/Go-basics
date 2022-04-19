@@ -22,7 +22,7 @@ func (e Employee) Print() {
 }
 
 func (e *Employee) UpdateAge() {
-	e.Age += 5
+	e.Age += 10
 }
 
 func (e *Employee) GetProjectPriority() string {
