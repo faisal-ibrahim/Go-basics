@@ -6,7 +6,6 @@ import (
 )
 
 func main() {
-
 	mylist := list.New()
 	mylist.PushBack(1)
 	mylist.PushFront(2)
@@ -22,5 +21,4 @@ func main() {
 		// do something with element.Value
 		fmt.Println(element.Value)
 	}
-
 }
